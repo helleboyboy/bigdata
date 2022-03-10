@@ -1,0 +1,3 @@
+# Project exclude paths
+/flink_scala/target/
+/out/
