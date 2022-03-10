@@ -1,4 +1,4 @@
-package com.hao.bigdata.flink.sql.table
+package com.hao.bigdata.flink.sqltableanddatastream
 
 import com.hao.bigdata.flink.source.{SensorReading, SensorSource}
 import org.apache.flink.streaming.api.scala._

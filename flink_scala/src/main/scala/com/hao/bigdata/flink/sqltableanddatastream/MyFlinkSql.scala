@@ -1,4 +1,4 @@
-package com.hao.bigdata.flink.sql.table
+package com.hao.bigdata.flink.sqltableanddatastream
 
 import org.apache.flink.streaming.api.scala._
 import org.apache.flink.table.api.{DataTypes, EnvironmentSettings, Table}
