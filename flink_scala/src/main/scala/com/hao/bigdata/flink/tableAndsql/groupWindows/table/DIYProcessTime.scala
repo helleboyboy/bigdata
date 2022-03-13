@@ -1,4 +1,5 @@
-package com.hao.bigdata.flink.tableAndsql.table
+package com.hao.bigdata.flink.tableAndsql.groupWindows.table
+
 import com.hao.bigdata.flink.source.SensorSource
 import org.apache.flink.streaming.api.TimeCharacteristic
 import org.apache.flink.streaming.api.scala._
